@@ -1,6 +1,12 @@
 # YATS - Formation NodeJS
 Partie NodeJS de la formation
 ---
+## Installation
+1. git clone https://github.com/yats.git
+2. Changer de repertoire ou vous avez cloné 
+3. npm install
+4. npm start
+---
 C'est la partie NodeJS de la formation du YATS hackathon 2022
 L'application textmsg est basée sur NodeJS et vous permet d'exposer des APIs.
 Normalement ces APIs sont connectés a une base de données mysql et utilisent le Sequelize
